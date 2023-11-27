@@ -50,11 +50,7 @@ int main()
 				<< setw(10)
 				<< N
 				<< endl;
-		
-		
 	}
 		
-	
-	
 	return 0;
 }
